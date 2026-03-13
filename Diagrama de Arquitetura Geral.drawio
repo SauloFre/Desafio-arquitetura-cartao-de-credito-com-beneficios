@@ -1,0 +1,125 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
+  <diagram name="Page-1" id="NUPiAd_drQS4vgljo6GZ">
+    <mxGraphModel dx="1224" dy="1192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IPN_J37CKLexO2hXSV5s-1" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="«Web»&lt;br&gt;&lt;b&gt;Client App&lt;/b&gt;" vertex="1">
+          <mxGeometry height="450" width="180" x="30" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-2" parent="IPN_J37CKLexO2hXSV5s-1" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-8" edge="1" parent="1" source="IPN_J37CKLexO2hXSV5s-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IPN_J37CKLexO2hXSV5s-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-3" parent="1" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.apigateway;" value="" vertex="1">
+          <mxGeometry height="41.699999999999996" width="43.199999999999996" x="318.4" y="64.14999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="API Gateway" vertex="1">
+          <mxGeometry height="30" width="60" x="310" y="115.85" as="geometry" />
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-17" edge="1" parent="1" source="IPN_J37CKLexO2hXSV5s-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="IPN_J37CKLexO2hXSV5s-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-18" edge="1" parent="1" source="IPN_J37CKLexO2hXSV5s-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IPN_J37CKLexO2hXSV5s-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-19" edge="1" parent="1" source="IPN_J37CKLexO2hXSV5s-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="IPN_J37CKLexO2hXSV5s-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-5" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="«Orchestrator»&lt;br&gt;&lt;b&gt;Card Application Service&lt;/b&gt;" vertex="1">
+          <mxGeometry height="90" width="180" x="450" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-6" parent="IPN_J37CKLexO2hXSV5s-5" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-7" edge="1" parent="1" source="IPN_J37CKLexO2hXSV5s-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.037;entryY=0.576;entryDx=0;entryDy=0;entryPerimeter=0;" target="IPN_J37CKLexO2hXSV5s-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-27" edge="1" parent="1" source="IPN_J37CKLexO2hXSV5s-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IPN_J37CKLexO2hXSV5s-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-9" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="«Service»&lt;br&gt;Benefits&amp;nbsp;" vertex="1">
+          <mxGeometry height="90" width="180" x="660" y="199.99999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-10" parent="IPN_J37CKLexO2hXSV5s-9" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-24" edge="1" parent="1" source="IPN_J37CKLexO2hXSV5s-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IPN_J37CKLexO2hXSV5s-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-11" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="«Service»&lt;br&gt;Card Account" vertex="1">
+          <mxGeometry height="90" width="180" x="450" y="199.99999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-12" parent="IPN_J37CKLexO2hXSV5s-11" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-30" edge="1" parent="1" source="IPN_J37CKLexO2hXSV5s-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IPN_J37CKLexO2hXSV5s-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-13" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="«Service»&lt;br&gt;Eligibility&amp;nbsp;" vertex="1">
+          <mxGeometry height="90" width="180" x="860" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-14" parent="IPN_J37CKLexO2hXSV5s-13" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-20" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=85;height=20;" value="Service Layer" vertex="1">
+          <mxGeometry height="480" width="635" x="425" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-22" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="«System»&lt;br&gt;Card Core" vertex="1">
+          <mxGeometry height="90" width="180" x="450" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-23" parent="IPN_J37CKLexO2hXSV5s-22" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-25" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="«Engine»&lt;br&gt;Benefits" vertex="1">
+          <mxGeometry height="90" width="180" x="660" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-26" parent="IPN_J37CKLexO2hXSV5s-25" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-32" edge="1" parent="1" source="IPN_J37CKLexO2hXSV5s-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IPN_J37CKLexO2hXSV5s-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-28" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="«Service»&lt;br&gt;Customer " vertex="1">
+          <mxGeometry height="90" width="180" x="860" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-29" parent="IPN_J37CKLexO2hXSV5s-28" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-39" edge="1" parent="1" source="IPN_J37CKLexO2hXSV5s-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IPN_J37CKLexO2hXSV5s-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-31" parent="1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#3E3E3E;fillColor=#7AA116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.iot_events;" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;EventBus&lt;/font&gt;" vertex="1">
+          <mxGeometry height="79" width="79" x="910.5" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-35" parent="1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#DD344C;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.audit_manager;" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Audit Log Manager&lt;/font&gt;" vertex="1">
+          <mxGeometry height="78" width="78" x="740" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-37" edge="1" parent="1" source="IPN_J37CKLexO2hXSV5s-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="IPN_J37CKLexO2hXSV5s-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPN_J37CKLexO2hXSV5s-38" parent="1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.sns;" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Notification Service&lt;/font&gt;" vertex="1">
+          <mxGeometry height="78" width="78" x="911" y="680" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
